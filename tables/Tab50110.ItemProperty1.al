@@ -1,7 +1,7 @@
 table 50110 "Item Property 1"
 {
     DataClassification = ToBeClassified;
-    CaptionML = DEU = 'Warengruppe', ENU = 'Item Property 1';
+    CaptionML = DEU = 'Warengruppierung', ENU = 'Item Property 1';
     fields
     {
         field(1; "Item Property 1"; code[50])
